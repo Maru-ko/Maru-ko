@@ -7,8 +7,6 @@
 
 ### <a href="https://trellis-deployment.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/Trellis-Deployment/trellis-deployment.github.io/main/images/assets/Trellis_logo_blue_cloud.svg" alt="Trellis Logo" width="40px"/>read trellis case study</a>
 
-<br/>
-
 ### <a href="https://trellis-deployment.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/Trellis-Deployment/trellis-deployment.github.io/main/images/assets/skills.svg" alt="NYC love" width="30px"/>Skills:</a>
 * **Languages:** JavaScript, Ruby, Go, C, SQL, CSS, HTML
 * **Frameworks:** React, Express, Handlebars, Bootstrap, jQuery, Next.js, Sinatra, Severless, SST
