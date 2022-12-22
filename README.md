@@ -15,8 +15,6 @@
 * **Cloud:** AWS (CDK, ECR, ECS, Cognito, Fargate, Lambda, Secrets Manager, API Gateway, CloudWatch, CloudFront, S3, DynamoDB), DigitalOcean (Droplets), Heroku
 * **Other Technologies:** Git, GitHub Actions, MongoDB, Node.js, PostgreSQL, RESTful APIs, Docker, Webhooks
 
-<br/>
-
 ### <a href="https://www.marcosavila.com" target="_blank"><img src="https://raw.githubusercontent.com/Trellis-Deployment/trellis-deployment.github.io/main/images/assets/connect2.svg" target="_blank" width="41px">Connect with me!
 
 * <img src="https://raw.githubusercontent.com/Trellis-Deployment/trellis-deployment.github.io/main/images/assets/Marcos_memoji.png" alt="SDK" width="41px"/><a href="https://www.marcosavila.com/" target="_blank">Personal Website</a>
