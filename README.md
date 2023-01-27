@@ -7,7 +7,7 @@
 ### <a href="https://trellis-deployment.github.io/#section-1" target="_blank"><img src="https://raw.githubusercontent.com/Trellis-Deployment/trellis-deployment.github.io/main/images/assets/Trellis_logo_blue_cloud.svg" alt="Trellis Logo" width="40px"/>read trellis case study</a>
 
 ### <a href="https://trellis-deployment.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/Trellis-Deployment/trellis-deployment.github.io/main/images/assets/skills.svg" alt="NYC love" width="30px"/>Skills:</a>
-* **Languages:** JavaScript, Ruby, Go, C, SQL, CSS, HTML
+* **Languages:** JavaScript, Ruby, Golang, C, SQL, CSS, HTML
 * **Frameworks:** React, Express, Handlebars, Bootstrap, jQuery, Next.js, Sinatra, Severless, SST
 * **Cloud:** AWS (CDK, ECR, ECS, Cognito, Fargate, Lambda, Secrets Manager, API Gateway, CloudWatch, CloudFront, S3, DynamoDB), DigitalOcean (Droplets), Heroku
 * **Other Technologies:** Git, GitHub Actions, MongoDB, Node.js, PostgreSQL, RESTful APIs, Docker, Webhooks
