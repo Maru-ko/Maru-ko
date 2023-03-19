@@ -8,8 +8,8 @@
 
 ### <a href="https://trellis-deployment.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/Trellis-Deployment/trellis-deployment.github.io/main/images/assets/skills.svg" alt="NYC love" width="30px"/>Skills:</a>
 * **Languages:** JavaScript, Ruby, Golang, C, SQL, CSS, HTML
-* **Frameworks:** React, Express, Handlebars, Bootstrap, jQuery, Next.js, Sinatra, Severless, SST
-* **Cloud:** AWS (CDK, ECR, ECS, Cognito, Fargate, Lambda, Secrets Manager, API Gateway, CloudWatch, CloudFront, S3, DynamoDB), DigitalOcean (Droplets), Heroku
+* **Frameworks:** Ruby on Rails, React, Express, Handlebars, Bootstrap, jQuery, Next.js, Sinatra, Severless, SST, TailWindCSS.
+* **Cloud:** AWS (CDK, ECR, ECS, Cognito, Fargate, Lambda, Secrets Manager, API Gateway, CloudWatch, CloudFront, S3, DynamoDB, Aurora), DigitalOcean (Droplets), Heroku
 * **Other Technologies:** Git, GitHub Actions, MongoDB, Node.js, PostgreSQL, RESTful APIs, Docker, Webhooks
 
 ### <a href="https://www.marcosavila.com" target="_blank"><img src="https://raw.githubusercontent.com/Trellis-Deployment/trellis-deployment.github.io/main/images/assets/connect2.svg" target="_blank" width="41px">Connect with me!
